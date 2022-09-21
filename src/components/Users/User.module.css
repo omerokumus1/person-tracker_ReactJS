@@ -1,0 +1,10 @@
+.user {
+  background-color: white;
+  border-radius: 10px;
+  border-width: 2px;
+  border-color: wheat;
+  margin: 2rem auto;
+  padding: 1rem;
+  width: 90%;
+  max-width: 40rem;
+}
